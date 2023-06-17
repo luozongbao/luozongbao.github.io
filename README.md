@@ -2,7 +2,7 @@
 ใช้เก็บ Mail Signature ในรูปแบบของ HTML สำหรับเราเองและนุ่น.
 
 ### Example
-- [https://luozongbao.github.io/Atipat-Contact.html](https://luozongbao.github.io/Atipat-Contact.html)
+- [https://luozongbao.github.io/Atipat-Simple.html](https://luozongbao.github.io/Atipat-Simple.html)
 - [https://luozongbao.github.io/Nathakamol-Simple.html](https://luozongbao.github.io/Nathakamol-Simple.html)
 
 # to use github to host web pages
