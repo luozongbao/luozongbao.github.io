@@ -1,17 +1,8 @@
-# luozongbao.github.io
+# Email Signature Templates
+
 ใช้เก็บ Mail Signature ในรูปแบบของ HTML สำหรับเราเองและนุ่น.
 
-### Example
-- [https://luozongbao.github.io/Atipat-Simple.html](https://luozongbao.github.io/Atipat-Simple.html)
-- [https://luozongbao.github.io/Nathakamol-Simple.html](https://luozongbao.github.io/Nathakamol-Simple.html)
-
-# to use github to host web pages
-1. make sure you know your github username.
-2. use your username to create a repository called [username].github.io
-3. there, you store your html pages.
-4. Access your page at https://[username.github.io/[htmlfilename]
-
-# Email Signature Templates
+This repository hosts HTML email signature templates for personal and professional use. All templates are accessible via GitHub Pages and fully support UTF-8 encoding for international characters.
 
 This repository hosts HTML email signature templates for personal and professional use. All templates are accessible via GitHub Pages.
 
@@ -39,24 +30,77 @@ This repository hosts HTML email signature templates for personal and profession
 - [2024 VI Signature](https://luozongbao.github.io/banrimkwae-2024vi-signature.html)
 - [VI Signature](https://luozongbao.github.io/banrimkwae-vi-signature.html)
 
+### Anuparb
+- [Banrimkwae](https://luozongbao.github.io/Anuparb-Banrimkwae.html)
+- [2024 VI Banrimkwae](https://luozongbao.github.io/anuparb-banrimkwae-2024vi.html)
+
+### Additional Templates
+- [Second Design](https://luozongbao.github.io/seconddesign.html)
+- [Atipat Signature Claude](https://luozongbao.github.io/atipat-signature-claude.html)
+- [Nathakamol Signature Claude](https://luozongbao.github.io/nathakamol-signature-claude.html)
+
 ## Features
-- Responsive HTML email signatures
-- Multiple company/organization variants
-- Base64 encoded images for reliable display
-- Standardized disclaimers in multiple languages
-- QR code integration for contact information
+- ✅ **UTF-8 Encoding Support**: All HTML files include proper charset declaration for international characters
+- 📱 Responsive HTML email signatures
+- 🏢 Multiple company/organization variants
+- 🖼️ Base64 encoded images for reliable display across email clients
+- 📜 Standardized legal disclaimers in multiple languages
+- 📱 QR code integration for easy contact information sharing
+- 🎨 Professional styling with consistent branding
+
+## Technical Specifications
+- **Character Encoding**: UTF-8 with proper `<meta charset="UTF-8">` declaration
+- **HTML Structure**: Valid HTML5 document structure
+- **Image Format**: Base64 encoded images for maximum compatibility
+- **Styling**: Inline CSS for maximum email client compatibility
+- **Responsiveness**: Optimized for desktop and mobile email clients
 
 ## How to Use
-1. Click on the desired signature template link above
-2. Copy the HTML code from the page (Ctrl+A, Ctrl+C)
-3. Paste into your email client's signature settings
-4. Adjust any personal details as needed
+1. 🔗 Click on the desired signature template link above
+2. 📋 Copy the HTML code from the page (Ctrl+A, Ctrl+C)
+3. ⚙️ Paste into your email client's signature settings
+4. ✏️ Customize personal details as needed
+5. 🧪 Test the signature in your email client before using professionally
 
-## Hosting Your Own Signatures
-1. Create a GitHub repository named `username.github.io` (replace username with your GitHub username)
-2. Upload your HTML signature files to this repository
-3. Access your signatures at `https://username.github.io/filename.html`
+## Quick Setup Examples
 
-## Notes
-- Some email clients may strip certain formatting or images
-- Test your signature in various email clients before using professionally
+### Example Links
+- [Atipat Simple](https://luozongbao.github.io/Atipat-Simple.html)
+- [Nathakamol Simple](https://luozongbao.github.io/Nathakamol-Simple.html)
+
+### GitHub Pages Hosting Instructions
+1. 👤 Make sure you know your GitHub username
+2. 🏗️ Create a repository named `[username].github.io` (replace with your GitHub username)
+3. 📁 Upload your HTML signature files to this repository
+4. 🌐 Access your signatures at `https://[username].github.io/[filename].html`
+
+## Recent Updates
+
+### ✅ UTF-8 Charset Implementation (September 2025)
+- Added proper `<meta charset="UTF-8">` declaration to all 23 HTML signature files
+- Ensured proper HTML5 document structure across all templates
+- Fixed duplicate closing tags and structural issues
+- Improved international character support for Thai, Chinese, and other languages
+
+## File Structure
+```
+/signature/
+├── README.md
+├── *.html (23 signature templates)
+└── images/
+    ├── *_Base64.html (Base64 encoded images)
+    └── icons/
+        └── social_media_icon_links.html
+```
+
+## Compatibility Notes
+- ✅ All major email clients (Outlook, Gmail, Apple Mail, Thunderbird)
+- ✅ UTF-8 character support for international languages
+- ⚠️ Some email clients may strip certain formatting or images
+- 💡 Always test signatures in target email clients before deployment
+
+## Contributing
+Feel free to submit pull requests for new signature designs or improvements to existing templates. Please ensure all new HTML files include proper UTF-8 charset declarations.
+
+---
+*Last updated: September 2025*
